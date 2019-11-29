@@ -1,14 +1,15 @@
 # Site
 title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Hi I'm Ugur. I like building software products. <br /> If I'm not chasing the next fun thing you can find me outside playing basketball, making music
+or traveling. Feel free to reach me on <a href="https://twitter.com/ugurtekbas">twitter</a> or shoot me an <a href="mailto:ugurtekbas@gmail.com">e-mail</a>.'  
+description:        ""
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                http://ugurtekbas.com
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   ugurtekbas
 
 # Social
 # if you don't have any of social below, comment the line.
