@@ -1,7 +1,7 @@
 # Site
 title:              Moon
 bio:                'Hi I&#39;m Ugur. I like building software products. <br/><br/> If I&#39;m not chasing the next fun thing, you can find me outside playing basketball, making music
-or travelling. <br/> <br/>Feel free to reach me on <a href="https://twitter.com/ugurtekbas" target="_blank" style="color: ##ff443a;">Twitter</a> or shoot me an <a href="mailto:ugurtekbas@gmail.com" target="_blank" style="color: ##ff443a;">e-mail</a>.'
+or travelling. <br/> <br/>Feel free to reach me on <a href="https://twitter.com/ugurtekbas" target="_blank" class="sociallink">Twitter</a> or shoot me an <a href="mailto:ugurtekbas@gmail.com" target="_blank" class="sociallink">e-mail</a>.'
 description:        ""
 reading_time:       true
 words_per_minute:   200
