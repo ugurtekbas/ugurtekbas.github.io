@@ -14,8 +14,6 @@ comments: true
 Alarm Shuffle features options that you would expect from alarm clock, like setting
 multiple alarms, daily repeating or snooze, plus many more. With its clean interface it doesn’t take more than 2 touches to setting everything you need.
 
-Let’s see how far you can get and Toggle It!
-
 Get it on [Play Store](https://play.google.com/store/apps/details?id=com.ugurtekbas.alarmshuffle) for free.
 
 ## Preview
