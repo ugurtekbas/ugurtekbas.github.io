@@ -9,12 +9,12 @@ tag:
 - songs
 comments: true
 ---
-[Alarm Shuffle](https://play.google.com/store/apps/details?id=com.ugurtekbas.alarmshuffle) is focusing on alarm sound differentiation by shuffling every alarm’s sound from your music library. It is trying to keep you away from being tired of your favourite songs. Don’t hate the song, love Alarm Shuffle.
+[Alarm Shuffle](https://play.google.com/store/apps/details?id=com.ugurtekbas.alarmshuffle){:target="_blank"} is focusing on alarm sound differentiation by shuffling every alarm’s sound from your music library. It is trying to keep you away from being tired of your favourite songs. Don’t hate the song, love Alarm Shuffle.
 
 Alarm Shuffle features options that you would expect from alarm clock, like setting
 multiple alarms, daily repeating or snooze, plus many more. With its clean interface it doesn’t take more than 2 touches to setting everything you need.
 
-Get it on [Play Store](https://play.google.com/store/apps/details?id=com.ugurtekbas.alarmshuffle) for free.
+Get it on [Play Store](https://play.google.com/store/apps/details?id=com.ugurtekbas.alarmshuffle){:target="_blank"} for free.
 
 ## Preview
 
