@@ -65,4 +65,4 @@ This is it to get in shape for the course. After following the titles above, I e
 {: .notice}
 
 ---
-####Say hi to me [onTwitter](https://twitter.com/ugurtekbas){:target="_blank"}
+#### Say hi to me [on Twitter](https://twitter.com/ugurtekbas){:target="_blank"}
