@@ -11,7 +11,7 @@ tag:
 - training
 comments: true
 ---
-I have been working as a software developer for almost a decade. During this time, I often found myself explaining technical stuff to my pears, onboarding junior developers or having to explain tech related topics to non-tech people. Despite I never received an education or training about teaching, I thought myself as good at explaining complex stuff in a simple way. I considered teaching programming but never tried to switch to that track until recently. Beginning of the year, I wanted to have this kind of experience and contacted [HCS](https://hamburgcodingschool.com/en/){:target="_blank"} for a possible trainer role. First meetings were pretty smooth and after a trial lesson, we agreed that I will be taking care of a web development course.
+I have been working as a software developer for almost a decade. During this time, I often found myself explaining technical stuff to my pears, onboarding junior developers or having to explain tech related topics to non-tech people. Despite I never received an education or training about teaching, I thought myself as good at explaining complex stuff in a simple way. I considered teaching programming but never tried to switch to that track until recently. Beginning of the year, I wanted to have this kind of experience and contacted [HCS](https://hamburgcodingschool.com/en/){:target="_blank"} for a possible trainer role. First meetings were pretty smooth and after a trial lesson, we agreed that I will be taking care of web development course.
 
 After completing my first course with amazing people, I started reflecting on the experience. As much as it was very rewarding and successful, there were things to improve. Attempting to write down some suggestions for myself led to this post.
 
@@ -40,7 +40,9 @@ In short, you need to know which topics you’ll talk about in particular sessio
 
 ### Say hello to your new friends
 Best way to break the ice is to welcome your new friends for the tough journey prior to first lesson. This will create the communication channel which hopefully last longer, even after end of the course.
- Choose your preferred channel (could be email, slack) and show them it’s ok to contact you anytime they need you. 
+
+Choose your preferred channel (could be email, slack) and show them it’s ok to contact you anytime they need you. 
+
 You can also use this opportunity to hint them what you’ll start working on, at the first lesson and asked them to install required tools or do some reading related to upcoming topics. This will save you so much time especially for the first class.
 
 ### Prepare homework and practices
@@ -50,13 +52,17 @@ It would be a great idea to give lego style homework that will create a tiny pro
 
 <figure>
 	<img src="../assets/img/lego-spill.png">
-	<figcaption>Build meaningful homeworks with lego style.<a href="https://www.dailymail.co.uk/news/article-2288869/Crate-Legos-spills-West-Virginia-highway-causing-major-delays.html"><small>(image source)</small></a></figcaption>
+	<figcaption>Build meaningful homework with lego style.<a href="https://www.dailymail.co.uk/news/article-2288869/Crate-Legos-spills-West-Virginia-highway-causing-major-delays.html"><small>(image source)</small></a></figcaption>
 </figure>
 
 
 Also don’t forget the challenge them with every homework you give. It could be even something you haven’t taught yet, it’s always good to push them a little bit then usual. Isn’t this also how a [developer’s life?](https://9gag.com/gag/av80j2Z/being-a-developer-is-not-stressing-at-all){:target="_blank"} One challenge after another… anyway let’s keep it on track.
 
-> This is it to get in shape for the course. After following the titles above, I easily welcomed the participants and had a quite productive first lesson.
+---
+This is it to get in shape for the course. After following the titles above, I easily welcomed the participants and had a quite productive first lesson.
 
-What do you think about the preparations phase? Do you have any recommendations? Let me know in the comments below!
+**What do you think about the preparations phase? Do you have any recommendations? Let me know in the comments below!**
 {: .notice}
+
+---
+####Say hi to me [onTwitter](https://twitter.com/ugurtekbas){:target="_blank"}
