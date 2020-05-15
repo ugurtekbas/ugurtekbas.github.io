@@ -26,6 +26,11 @@ And finally here you are, stage is yours!
 ### Keep It Simple
 Like in one of the most underrated [software principle](https://en.wikipedia.org/wiki/KISS_principle){:target="_blank"}, keep it very simple when you’re explaining new concepts or languages. Associate the concept with something concrete from real life. This will make the subject less scary and easier to understand for students.
 
+<figure>
+	<img src="../assets/img/simple.jpg">
+	<figcaption>This is the image I created to explain what those languages do, in the simplest form</figcaption>
+</figure>
+
 You can also apply explaining to 5 year old rule, don’t worry people won’t	mind, they just want to understand things.
 
 Another advise would be: don’t give examples right away. Make them understand it first then do a general example which covers the topic. This way you also avoid squeezing the topic only in one example which might limit their way looking at the topic.
@@ -49,6 +54,11 @@ I also ask them to do research on specific topics, just to get the basic ideas a
 
 ## Question or to be questioned
 They will want to ask anything and everything which is absolutely fine. Your job is to make them fell totally relax about asking questions. Show them they can stop you and ask questions any time, no matter how silly or simple they are.
+
+<figure>
+	<img src="../assets/img/questions.jpg">
+	<figcaption><a href="https://fresnostategraduatewritingstudio.wordpress.com/2018/11/19/week-13-do-not-be-afraid-to-ask-questions-and-get-assistance/"><small>(image source)</small></a></figcaption>
+</figure>
 
 You can do this by repeating the sentence “Do you have any questions?” every time after explaining something or asking them questions during lessons to see if they are clear of any confusion. You can also show them how to get answers theirselves which is simple googling. Demonstrate how to search for usage of an attribute or documentation by just googling in front of their eyes, guide them to the wonderland of StackOverflow.
 
