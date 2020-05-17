@@ -27,7 +27,7 @@ And finally here you are, stage is yours!
 Like in one of the most underrated [software principle](https://en.wikipedia.org/wiki/KISS_principle){:target="_blank"}, keep it very simple when you’re explaining new concepts or languages. Associate the concept with something concrete from real life. This will make the subject less scary and easier to understand for students.
 
 <figure>
-	<img src="../assets/img/simple.jpg">
+	<img src="../assets/img/simple.jpeg">
 	<figcaption>This is the image I created to explain what those languages do, in the simplest form</figcaption>
 </figure>
 
