@@ -40,7 +40,7 @@ It’s very important to make students practice right on the spot. With exercise
 
 It might feel weird to give students a block of few 15 minutes to work on their own when you have limited time for a session, but it is definitely worth it. First keep the exercise simple, let them try to figure things out, and watch how they approach the problem. You can literally sneak up to their monitor and talk about their approach. After 10-15 minutes, show the solution with some live-coding, where they can easily follow. If there are multiple solutions to the problem, you can show a few different approaches. As a last step, show them a real life example about the exact practice. It could be adding a nice footer to your website or using a random number function in JavaScript.
 
-If you apply the [10000 hours rule](https://en.wikipedia.org/wiki/Outliers_(book)){:target="_blank"}, yourstudents need to practice outside of the course too, it’s called "Homework". Coming up with good homework is really hard (shout out to all my former teachers out there who came up with creative homework when I was studying). I consider three things while preparing a homework:
+If you apply the [10000 hours rule](https://en.wikipedia.org/wiki/Outliers_(book)){:target="_blank"}, your students need to practice outside of the course too, it’s called "Homework". Coming up with good homework is really hard (shout out to all my former teachers out there who came up with creative homework when I was studying). I consider three things while preparing a homework:
 
 - Including the subjects we learned in the last lesson
 - Making it useful so that they can easily imagine a different implementation for their different ideas
