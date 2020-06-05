@@ -38,7 +38,7 @@ Probably the first request you'll receive will be sharing the code you write in 
 ## This is a celebration
 It's been a rough patch but they did it! Show them their dedication and hard work deserve a celebration. Go out together to have dinner, do a beer night. In Corona times I was only able to prepare a cocktail and make a toast to them, however it was enough to get all of us into celebration mood.
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=3GwjfUFyY6M" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3GwjfUFyY6M" frameborder="0"> </iframe>
 ---
 This was the last piece of the entire course. Being approached by some of the students days after our course showed me it was quite rewarding to follow tips above.
 
