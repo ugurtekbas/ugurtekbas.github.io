@@ -25,7 +25,7 @@ Make sure your students understand that just because the course is over doesn't 
 Give them product ideas, this will make it easier for them to start building. It could be a personal website, a simple mobile application, a blog about recycling or landing page of their long planned side hustle. Make them feel confident enough to start coding with what they know, show them what it takes is all they got.
 
 <figure>
-	<img src="../assets/img/we-can-do-it.jpeg">
+	<img src="../assets/img/we-can-do-it.jpg">
 	<figcaption>Show them they can do it!<a href="https://skizzenmonster.de/we-can-do-it-giraffe/"><small>(image source)</small></a></figcaption>
 </figure>
 
