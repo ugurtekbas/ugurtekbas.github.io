@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy
+title: Privacy Policy
 tags: [privacy, cookies]
 comments: false
 ---
@@ -9,7 +9,7 @@ Your privacy is important therefore, we pay attention to compliance with data pr
 
 This website uses cookies only for analytics purposes. There is no advertisement shown on the site and no data is collected for advertisement purposes. All IPs are anonymized before using for statistics.
 
-Ugur Tekbas
+Ugur Tekbas <br>
 ugurtekbas@gmail.com
 
 ## Google Analytics
