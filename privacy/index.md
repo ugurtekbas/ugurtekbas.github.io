@@ -18,7 +18,7 @@ This website uses Google Analytics, a web analytics service provided by Google L
 ## IP enonymizing
 We use Google Analytics in conjunction with the IP anonymization function. It ensures that Google shortens your IP address within member states of the European Union or in other contracting states of the Agreement on the European Economic Area before it is transmitted to the USA. There may be exceptional cases in which Google transmits the full IP address to a server in the USA and shortens it there. On our behalf, Google will use this information to evaluate your use of the website, to create reports on website activity and to provide us with other services related to website activity and internet usage. The IP address transmitted by your browser as part of Google Analytics will not be merged with other Google data.
 
-## SSL encription
+## SSL encryption
 For security reasons and to protect the transmission of confidential content that you send to us as the site operator, this website uses SSL encryption. This means that data that you transmit via this website cannot be read by third parties. You can recognize an encrypted connection by the "https: //" address line of your browser and by the lock symbol in the browser line.
 
 ## Liability for links
