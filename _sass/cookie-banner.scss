@@ -1,5 +1,6 @@
 #cookie-banner {
-  display: none;
+  display: flex;
+  justify-content: center;
   position: fixed;
   grid-template-columns: 80% 20%;
   grid-template-rows: 35% 65%;
