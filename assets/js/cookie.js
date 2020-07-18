@@ -30,6 +30,6 @@ function closeBannerSetCookie() {
 
 // display banner but delete it and set cookie on closing click
 if (!cookieExists) {
-  document.getElementById("cookie-banner").style.display="grid";
+  document.getElementById("cookie-banner").style.display="flex";
   document.getElementById("close").addEventListener("click", closeBannerSetCookie);
 }
