@@ -12,12 +12,13 @@ tag:
 comments: true
 ---
 Onboarding is the official process of integrating new team members into an organization. It's a good spot to start everything on the right foot. Over the years, I've been lucky enough to introduce great engineers to my teams. In some cases I onboarded solely on our codebase, sometimes it was a tool we used frequently or it was just about the product and responsibilities. Regardless of focus area, our goal stays the same: 
-> enabling newly joined team members to contribute. 
+> Enabling newly joined team members to contribute.
+> 
 At the end of the process, **onboardee** (Yeap! There is such a word) should have clear answers to their questions, should feel confident and confortable enough to kickstart their journey.
 
 Remote working is becoming a strong norm, it's escalated with Corona and luckily it willbe permanent for many companies. It will be more and more common to onboard new members remotely in the future. I wanted to share my experience on welcoming new engineers during fully remote setup and to highlight what worked well, benefited within in the long run.
 
-Before we begin it's safe to raise my assumption: I did onboardings for cross-functional teams who work on dedicated part of products which has a huge active customer base.
+Before we begin it's safe to raise my assumption: My experience is baded on cross-functional teams who work on dedicated part of products which has a huge active customer base.
 {: .notice}
 
 ## 📚 Prepare Visual Documentation
