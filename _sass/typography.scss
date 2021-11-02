@@ -1,6 +1,6 @@
 // content area
 .content {
-	@include font-size(16);
+	@include font-size(20);
 	padding: 0 2rem;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased !important;
@@ -35,6 +35,7 @@
 h3.title a {
 	color: $color_shark;
 	text-decoration: none;
+	@include font-rem(18);
 }
 
 // post list
@@ -51,7 +52,7 @@ h3.title a {
 		background: $white;
 		color: $color_shark;
 		a {
-			@include font-rem(20);
+			@include font-rem(22);
 			text-decoration: none;
 			color: $color_shark;
 			font-weight: bolder;
@@ -61,15 +62,14 @@ h3.title a {
 		}
 		p {
 			font-weight: lighter;
-			@include font-rem(16);
+			@include font-rem(18);
 		}
 	}
 }
 
 // quotes
 blockquote {
-	font-family:$alt-font;
-	font-style:italic;
+	@include font-rem(22);
 	border-left:8px solid $color_tundora;
 	padding-left:20px;
 	margin: 0;
@@ -138,7 +138,7 @@ table {
     margin-top: 1.5em;
     padding: .5em 1em;
     text-indent: 0;
-    @include font-rem(14);
+    @include font-rem(18);
     background-color: $color_gray;
     border: 1px solid $color_pink_swan;
     @include rounded(3px);
