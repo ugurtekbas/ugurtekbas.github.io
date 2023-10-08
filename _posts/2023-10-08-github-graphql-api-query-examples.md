@@ -11,7 +11,8 @@ tag:
 - query
 comments: true
 ---
-Recently, I created a tiny app to browse public repositories on GitHub. I haven’t seen many examples of [Search queries](https://docs.github.com/en/graphql/reference/queries#search), so I wanted to provide examples with this post.            
+Recently, I created a tiny app to browse public repositories on GitHub. And I've noticed there aren't many examples of [Search queries](https://docs.github.com/en/graphql/reference/queries#search) out there, so I wanted to provide examples with this post.            
+
 Let's start with a simple query:
 
 ```
@@ -126,7 +127,7 @@ search(
     }
   }
 ```
-If you noticed we requested a field called `pageInfo` in the new query. We can use that information to navigate different pages and to determine if there are more pages to paginate.
+If you noticed we requested a field called `pageInfo` in the new query. We can use that information to navigate different pages and to determine if there are more pages to paginate. [Check out this gist](https://gist.github.com/ugurtekbas/308a9439ec77dddebd585f02dc8af59e) for queries with pagination parameters.
 
 ## 📗 Using Fragments
 
@@ -183,7 +184,11 @@ We used newly created Repo fragment in the query and it's ready to use all other
 
 ---
 
-**I hope this quick queries are helpful. Do you have any suggestions? Let me know in the comments below!**
+You can find all the query examples with different parameters and pagination [in this gist file](https://gist.github.com/ugurtekbas/308a9439ec77dddebd585f02dc8af59e). 
+
+---
+
+**I hope this gives you a head start to write queries for Github's API. If you have any questions/suggestions feel free to drop in the comments below.**
 {: .notice}
 
 ---
