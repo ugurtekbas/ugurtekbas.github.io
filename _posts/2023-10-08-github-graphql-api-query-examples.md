@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Github Graphql API Query Examples"
+title:  "Github GraphQL API Query Examples"
 date:   2023-10-08
-excerpt: "Github Graphql API Query Examples."
+excerpt: "Github GraphQL API Query Examples."
 tag:
 - github
 - graphql
