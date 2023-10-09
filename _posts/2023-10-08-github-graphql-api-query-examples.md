@@ -15,7 +15,7 @@ Recently, I created a tiny app to browse public repositories on GitHub. And I've
 
 Let's start with a simple query:
 
-```
+```graphql
 search(
     query: "language:Kotlin forks:>10"
     type: REPOSITORY
@@ -41,7 +41,7 @@ For Repository object we get name, description, number of stars and forks it has
 
 Let's see the results:
 
-```
+```json
 {
   "data": {
     "search": {
@@ -90,7 +90,7 @@ You can run queries by yourself and check out the data using [Github's Explorer]
 ## 📚 More data
 Let's extend our query by requesting more fields. We can use owner field to get repo owner's name, url field to get Github page url , some important dates and also all the programming languages repo contains. Let's check out this extended version of our query:
 
-```
+```graphql
 search(
     query: "language:Kotlin forks:>10"
     type: REPOSITORY
@@ -135,7 +135,7 @@ So far our queries are working and we are retrieving the data we want. It's poss
 
 Fragments are a way to define reusable sets of fields that can be included in multiple queries. They allow you to group fields together and give them a name, making your queries more organized, readable, and maintainable. Fragments help avoid duplication of field selections when you have common sets of fields that you want to include in multiple parts of your queries. Looking at our query we can easily define a fragment for main Repository object as following:
 
-```
+```graphql
 fragment Repo on Repository {
     id
     name
@@ -160,7 +160,7 @@ Now `Repo` fragment is ready to use in main query, in the mean time you can try 
 
 Now let's look at the final version of our query:
 
-```
+```graphql
 search(
     query: "language:Kotlin forks:>10"
     type: REPOSITORY
