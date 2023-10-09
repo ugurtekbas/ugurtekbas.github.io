@@ -16,6 +16,7 @@ Recently, I created a tiny app to browse public repositories on GitHub. And I've
 Let's start with a simple query:
 
 ```graphql
+{
 search(
     query: "language:Kotlin forks:>10"
     type: REPOSITORY
@@ -32,6 +33,7 @@ search(
       }
     }
   }
+}
 ```
 
 We are using four parameters  in the search query above. First one `query` is basically our search phrase, what kind of public repositories we want to search for. I chose repositories which contain Kotlin language and has more than 10 forks. You can change your phrase as you wish, it uses same structure in Github's [search page](https://github.com/search?q=kotlin+forks%3A10&type=repositories&ref=advsearch). `type` is what we want to search, we used REPOSITORY value because we want to check out repos. We could also use issues, users or discussions. `first` is determine how many items we want from the top of the resulting list. `after`  is used for pagination; it’s not required, but I wanted to use it just to demonstrate some paginated queries later.
@@ -91,6 +93,7 @@ You can run queries by yourself and check out the data using [Github's Explorer]
 Let's extend our query by requesting more fields. We can use owner field to get repo owner's name, url field to get Github page url , some important dates and also all the programming languages repo contains. Let's check out this extended version of our query:
 
 ```graphql
+{
 search(
     query: "language:Kotlin forks:>10"
     type: REPOSITORY
@@ -126,6 +129,7 @@ search(
       endCursor
     }
   }
+}
 ```
 If you noticed we requested a field called `pageInfo` in the new query. We can use that information to navigate different pages and to determine if there are more pages to paginate. [Check out this gist](https://gist.github.com/ugurtekbas/308a9439ec77dddebd585f02dc8af59e) for queries with pagination parameters.
 
@@ -161,6 +165,7 @@ Now `Repo` fragment is ready to use in main query, in the mean time you can try 
 Now let's look at the final version of our query:
 
 ```graphql
+{
 search(
     query: "language:Kotlin forks:>10"
     type: REPOSITORY
@@ -178,6 +183,7 @@ search(
       hasPreviousPage
     }
   }
+}
 ```
 Short and sweet 👌🏽       
 We used newly created Repo fragment and it's ready to use all other queries and mutations in the future.
