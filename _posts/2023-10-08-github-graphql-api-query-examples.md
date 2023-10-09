@@ -17,22 +17,22 @@ Let's start with a simple query:
 
 ```graphql
 {
-search(
-    query: "language:Kotlin forks:>10"
-    type: REPOSITORY
-    first: 5
-    after: null
-  ) {
-    repositoryCount
-    nodes {
-      ... on Repository {
-        name
-        description
-        stargazerCount
-        forkCount
+    search(
+        query: "language:Kotlin forks:>10"
+        type: REPOSITORY
+        first: 5
+        after: null
+      ) {
+        repositoryCount
+        nodes {
+          ... on Repository {
+            name
+            description
+            stargazerCount
+            forkCount
+          }
+        }
       }
-    }
-  }
 }
 ```
 
@@ -94,41 +94,41 @@ Let's extend our query by requesting more fields. We can use owner field to get 
 
 ```graphql
 {
-search(
-    query: "language:Kotlin forks:>10"
-    type: REPOSITORY
-    first: 5
-    after: null
-  ) {
-    repositoryCount
-    nodes {
-      ... on Repository {
-        id
-        name
-        description
-        stargazerCount
-        forkCount
-        updatedAt
-        createdAt
-        url
-        owner {
-          login
-        }
-        languages(first: 3) {
-          nodes {
+    search(
+        query: "language:Kotlin forks:>10"
+        type: REPOSITORY
+        first: 5
+        after: null
+      ) {
+        repositoryCount
+        nodes {
+          ... on Repository {
+            id
             name
-            color
+            description
+            stargazerCount
+            forkCount
+            updatedAt
+            createdAt
+            url
+            owner {
+              login
+            }
+            languages(first: 3) {
+              nodes {
+                name
+                color
+              }
+            }
           }
         }
+        pageInfo {
+          hasNextPage
+          hasPreviousPage
+          startCursor
+          endCursor
+        }
       }
-    }
-    pageInfo {
-      hasNextPage
-      hasPreviousPage
-      startCursor
-      endCursor
-    }
-  }
 }
 ```
 If you noticed we requested a field called `pageInfo` in the new query. We can use that information to navigate different pages and to determine if there are more pages to paginate. [Check out this gist](https://gist.github.com/ugurtekbas/308a9439ec77dddebd585f02dc8af59e) for queries with pagination parameters.
@@ -166,23 +166,23 @@ Now let's look at the final version of our query:
 
 ```graphql
 {
-search(
-    query: "language:Kotlin forks:>10"
-    type: REPOSITORY
-    first: 5
-    after: null
-  ) {
-    repositoryCount
-    nodes {
-      ...Repo
-    }
-    pageInfo {
-    	startCursor
-      endCursor
-      hasNextPage
-      hasPreviousPage
-    }
-  }
+    search(
+        query: "language:Kotlin forks:>10"
+        type: REPOSITORY
+        first: 5
+        after: null
+      ) {
+        repositoryCount
+        nodes {
+          ...Repo
+        }
+        pageInfo {
+        	startCursor
+          endCursor
+          hasNextPage
+          hasPreviousPage
+        }
+      }
 }
 ```
 Short and sweet 👌🏽       
