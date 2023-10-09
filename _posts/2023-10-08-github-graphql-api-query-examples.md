@@ -2,7 +2,7 @@
 layout: post
 title:  "Github GraphQL API Query Examples"
 date:   2023-10-08
-excerpt: "Github GraphQL API Query Examples."
+excerpt: "Various search queries over Github's API."
 tag:
 - github
 - graphql
@@ -83,7 +83,7 @@ Let's see the results:
 }
 ```
 As you can see our query works like a charm 🥳.        
-We received 5 repos as requested and all the details they have. Whenever I do searches on Github I stumble upon interesting repos like `fanqiang `s here.
+We received 5 repos as requested and all the details they have. Whenever I do searches on Github I stumble upon interesting repos like `fanqiang` here.
 
 You can run queries by yourself and check out the data using [Github's Explorer](https://docs.github.com/en/graphql/overview/explorer) tool.
 
@@ -180,15 +180,13 @@ search(
   }
 ```
 Short and sweet 👌🏽       
-We used newly created Repo fragment in the query and it's ready to use all other queries and mutations in the future.
+We used newly created Repo fragment and it's ready to use all other queries and mutations in the future.
 
 ---
 
 You can find all the query examples with different parameters and pagination [in this gist file](https://gist.github.com/ugurtekbas/308a9439ec77dddebd585f02dc8af59e). 
 
----
-
-**I hope this gives you a head start to write queries for Github's API. If you have any questions/suggestions feel free to drop in the comments below.**
+**I hope this gives you a head start to write queries. If you have any questions/suggestions feel free to drop in the comments below.**
 {: .notice}
 
 ---
