@@ -1,9 +1,9 @@
 ---
 layout: post
 project: true
-title:  "Germany Salary Calculator for Turkey and Ukrain"
+title:  "Germany Salary Calculator for Turkey and Ukraine"
 date:   2022-03-07
-excerpt: "Convenient way to browse, locate, and evaluate listings on Kleinanzeigen."
+excerpt: "New, simple Germany salary calculator in Turkish and Ukrainian languages."
 tag:
 - germany
 - salary calculator
@@ -40,8 +40,8 @@ Since I started working with iteration in every project, directions started gett
 ## ✨ Talking to Users
 Except pages such as [about](https://almanyamaas.com/pages/almanya-maas-hesaplama-araci-hakkinda.html), I don't have many contact points with the users to get feedback. I've created a small feedbackcomponent next the form but it was not really used. This led me to guess about `what users would want`. I worked on a sharing feature where people can share their calculation results with others. It took me some time and energy to finish, after release not many made a use of it. So I ended up spending quite some time to build a feature I thougt was very helpful which wasn't really used at the end, because I did not talk with the users enough.
 
-## ✨ Ukranian Version
-After seeing the first website creating value and people keep coming, I thought why not creating the same thing in Ukranian. Luckily a dear friend of mine speaks fluent Ukranian, so I asked him for help and he translated the entire tool in few hours. I bought a new Ukranian domain name following the same methods and that's why [Zarplatavgermanii](https://zarplatavgermanii.com) is alive now :(.
+## ✨ Ukrainian Version
+After seeing the first website creating value and people keep coming, I thought why not creating the same thing in Ukranian. Luckily a dear friend of mine speaks fluent Ukrainian, so I asked him for help and he translated the entire tool in few hours. I bought a new Ukrainian domain name following the same methods and that's why [Zarplatavgermanii](https://zarplatavgermanii.com) is alive now :(.
 
 <figure>
 	<img src="../assets/img/ss-salary-uk.png">
