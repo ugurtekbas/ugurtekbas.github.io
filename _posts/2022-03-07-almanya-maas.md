@@ -11,18 +11,20 @@ tag:
 - zarplatavgermanii
 comments: true
 ---
-Every now and then I need a calculator to check details about my social contributions or tax deductions from my salary. I go to one of the known salary calculator websites for Germany either in German or in English. In one of those days, I noticed there was no calculator in Turkish, people (me included) probably use the English version and that's helpful enough. On the other hand, examining these details in their native language would be beneficial. Building such a tool would be a good challenge for me since I didn't know much about developing websites so I jumped on the opportunity. That's how [Almanya Maas](https://www.almanyamaas.com/){:target="_blank"} came into life.
+Every now and then I need a calculator to check details about my social contributions or tax deductions from my salary. I go to one of the known salary calculator websites for Germany either in German or in English. In one of those days, I noticed there was no calculator in Turkish, people (me included) probably use the English version and that's helpful enough. On the other hand, examining these details in their native language would be beneficial. Building such a tool would be a good opportunity for me to learn new things so I jumped on the opportunity. That's how [Almanya Maas](https://www.almanyamaas.com/){:target="_blank"} came into life.
 
 <figure>
 	<img src="../assets/img/ss-salary.png">
 	<figcaption></figcaption>
 </figure>
 
-After studying existing tools I decided to build Almanya Maas on three principles:
+After studying existing tools, I decided to build Almanya Maas on three principles:
 
-1. **Simplicity**: From website title to calculator form and to result page, everything should be simple. First version should be as simple as possible. Users should fill in as little information as possible to prevent confusing them. That's why in the first version I omitted few entry fields, used a fixed value for public health insurance. After users start using I iterated and allow them put in more details for more accurate and realistic results.
+1. **Simplicity**: From website title to calculator form and to result page, everything should be simple. First version should be as simple as possible. Users should fill in as little information as possible to prevent confusing them. That's why in the first version I omitted few entry fields, used a fixed value for public health insurance. After attracting certain amount of user, I iterated and allow them put in more details for more accurate and realistic results.
+
 2. **Information**: Users should understand what they need to know and why they need it. That's why I added explanations for each section of the form in the same page. Users easily scroll down and read about every item on the form, with suggested options for different cases.
-3. **Clarity**: In the result page, it shows the most important number users want which is the monthly net salary. Below it, in a simple table, they can see all the calculation details both monthly and yearly manner.
+
+3. **Clarity**: In the result page, it shows the most important number users want: monthly net salary. Below it, in a simple table, they can see all the calculation details both monthly and yearly manner.
 
 <figure>
 	<img src="../assets/img/ss-salary-result.png">
