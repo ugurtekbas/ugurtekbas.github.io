@@ -26,6 +26,7 @@ The next step was wrapping this data into a readable message with enough detail 
 At this point application flow was as follows: everyday the cheapest deals are being checked few times, details saved and once a day, 2 best tickets details were sent to Telegram channel. If there hadn't been a good deal in the past 2 days, bots would send the latest best ones, ensuring that there were always up to date deals in the channel. I kept the messages as short as possible with maximum benefit details. Next to dates and prices, I also added the airline name and a link which when clicked, directed users to ticket page where they can purchase the related ticket with few clicks.
 
 After running this flow for a while, I noticed an extra benefit. Naturally, I was being notified whenever there was a good deal but additionally I was aware of the price changes of the usual tickets. Because bots were sending new deals continuously.
+{: .notice}
 
 ## 💌 Constraints
 As soon as I thought about this cheap tickets helper, I realized how many constraints it comes with. First of all, users can not really select their departure and return dates. Bots focused on finding the best deal regardless of the dates. The second point was destinations; departure was set to Hamburg and I added two most popular destinations from Hamburg to Turkey: Istanbul and Antalya. With the help of these constraints, I found a niche area where I can test the idea. If people used it, I could easily expand it to make it more customizable.
@@ -37,6 +38,6 @@ As soon as I thought about this cheap tickets helper, I realized how many constr
 
 ---
 
-I hope you like reading the back story. Let me know if you wish any additional features or any questions. 
+I hope you like reading the back story. Let me know if you have any questions. 
 
 ### Say hi to me [on Twitter](https://twitter.com/ugurtekbas){:target="_blank"}
