@@ -1,3 +1,11 @@
+---
+layout: page
+title: Chat With Quran Privacy Policy
+tags: [chat with quran]
+comments: false
+---
+
+
 Your privacy is important, we pay attention to compliance with data protection regulations. In this data protection declaration we inform you about the purposes for which your data is collected and used and how you can exercise your rights. You can contact us at any time using the email address below to collect personal information.
 
 Contact: pamukinc@gmail.com
@@ -17,6 +25,7 @@ The Application collects information you provide when using the Application, inc
 
 
 **Firebase Anonymous Sign-In:** A unique user ID is generated and stored in Firebase.
+
 **Google Sign-In (if applicable):** If you sign in with Google, your email and name are stored in Firebase.
 
 
@@ -43,7 +52,7 @@ Only aggregated, anonymized data is periodically transmitted to external service
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Firebase] (for authentication and database services)(https://firebase.google.com).
+*   [Firebase](https://firebase.google.com).
 
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
