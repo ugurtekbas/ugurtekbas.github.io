@@ -14,8 +14,12 @@ By downloading or using the Application, you acknowledge that you have read and 
 The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
 
 The Application collects information you provide when using the Application, including:
+
+
 **Firebase Anonymous Sign-In:** A unique user ID is generated and stored in Firebase.
 **Google Sign-In (if applicable):** If you sign in with Google, your email and name are stored in Firebase.
+
+
 Providing this information is optional, but some features may not work without it.
 
 **Automatically Collected Information**
