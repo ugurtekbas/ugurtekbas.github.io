@@ -4,14 +4,19 @@ Contact: pamukinc@gmail.com
 
 **Privacy Policy**
 
-This privacy policy is applicable to the Chat With Quran app (hereinafter referred to as "Application") for mobile devices, which was developed by Ugur Tekbas (hereinafter referred to as "Service Provider") as a a Freemium service. This service is provided "AS IS".
+This privacy policy is applicable to the Chat With Quran app (hereinafter referred to as "Application") for mobile devices, which was developed by Ugur Tekbas (hereinafter referred to as "Service Provider") as a a Freemium service, meaning it is free to download and use but offers optional in-app purchases. This service is provided "AS IS".
+
+By downloading or using the Application, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
 
 **What information does the Application obtain and how is it used?**  
 **User Provided Information**
 
 The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
 
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+The Application collects information you provide when using the Application, including:
+**Firebase Anonymous Sign-In:** A unique user ID is generated and stored in Firebase.
+**Google Sign-In (if applicable):** If you sign in with Google, your email and name are stored in Firebase.
+Providing this information is optional, but some features may not work without it.
 
 **Automatically Collected Information**
 
@@ -34,6 +39,8 @@ Only aggregated, anonymized data is periodically transmitted to external service
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Firebase] (for authentication and database services)(https://firebase.google.com).
+
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
